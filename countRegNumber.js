@@ -1,6 +1,6 @@
-module.exports =function(num){
-            var str = num.split(",");
-        console.log(str.length);
-   return str.length;
+module.exports = function (num) {
+    var str = num.split(",");
+    console.log(str.length);
+    return str.length;
 
 }
