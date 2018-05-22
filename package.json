@@ -1,0 +1,26 @@
+{
+  "name": "first_terminal_test",
+  "version": "1.0.0",
+  "description": "Bootcamp tests",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBooi/first_terminal_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrBooi/first_terminal_test/issues"
+  },
+  "homepage": "https://github.com/MrBooi/first_terminal_test#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
