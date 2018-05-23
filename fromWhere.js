@@ -1,17 +1,17 @@
-module.exports =function(registration){
+module.exports = function (registration) {
 
-if(registration=='CY'){
-   return "Bellville";
+    if (registration == 'CY') {
+        return "Bellville";
 
-   }else
-  if(registration=='CJ'){
-      return "Paarl";
-     }
-if(registration=='CA'){
-   return "Cape Town";
+    } else
+        if (registration == 'CJ') {
+            return "Paarl";
+        }
+    if (registration == 'CA') {
+        return "Cape Town";
 
-   }else{
+    } else {
 
-      return "Some other place!";
-     }
+        return "Some other place!";
+    }
 }
